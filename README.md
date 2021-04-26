@@ -39,4 +39,14 @@ Imbalanced-learn and scikit-learn libraries have been applied to build and evalu
 
 ![image](https://user-images.githubusercontent.com/76540704/116021631-90935c80-a616-11eb-92d3-42406adb1613.png)
 
+- EasyEnsembleClassifier
 
+![image](https://user-images.githubusercontent.com/76540704/116021915-2f1fbd80-a617-11eb-8c7e-70d9c43bf84a.png)
+
+## Summary
+
+This project is designed to identify the suitable model that can inform whether a loan is high risk or not. As a result, we need to develop a model that allows the least amount of high-risk loans to move unnoticed. The recall rate for high risk is the corresponding metric for this. The following versions received the best scores as compared to the others:
+
+1. Easy Ensemble Classifying (91%)
+2. SMOTEENN Sampling (76%)
+3. Naive Random Oversampling (72%)
