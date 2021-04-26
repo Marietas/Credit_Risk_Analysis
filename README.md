@@ -55,3 +55,7 @@ Although this is the most interesting statistic from this study, recall rate for
 
 - Balanced Random Forest Classifying - 78.77%
 - Easy Ensemble Classifying - 92.54%
+
+We should look at the accurary score after we've weighed these two numbers against the others and get a sense of how well the model does in general. The following versions have the best accuracy scores:
+
+
