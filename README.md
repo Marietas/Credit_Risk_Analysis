@@ -58,4 +58,10 @@ Although this is the most interesting statistic from this study, recall rate for
 
 We should look at the accurary score after we've weighed these two numbers against the others and get a sense of how well the model does in general. The following versions have the best accuracy scores:
 
+- Easy Ensemble Classify (92.3%)
+- SMOTEENN Sampling (68.1%)
+- Balanced Random Forest Classifying (64.8%)
+
+The Easy Ensemble Classifying model is the model that I would prefer for forecasting high risk loans after factoring in these three major statistics.
+
 
