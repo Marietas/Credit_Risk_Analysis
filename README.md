@@ -35,4 +35,8 @@ Imbalanced-learn and scikit-learn libraries have been applied to build and evalu
 ![image](https://user-images.githubusercontent.com/76540704/116021080-7907a400-a615-11eb-8cb7-57b4089a1c14.png)
 
 
+- Balanced Random Forest Classifier model
+
+![image](https://user-images.githubusercontent.com/76540704/116021631-90935c80-a616-11eb-92d3-42406adb1613.png)
+
 
