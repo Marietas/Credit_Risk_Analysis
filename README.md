@@ -30,4 +30,9 @@ Imbalanced-learn and scikit-learn libraries have been applied to build and evalu
 
 ![image](https://user-images.githubusercontent.com/76540704/116020703-d9e2ac80-a614-11eb-86e1-cc92fbc8f01c.png)
 
+- SMOTEENN model
+
+![image](https://user-images.githubusercontent.com/76540704/116021080-7907a400-a615-11eb-8cb7-57b4089a1c14.png)
+
+
 
