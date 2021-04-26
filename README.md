@@ -17,3 +17,7 @@ Imbalanced-learn and scikit-learn libraries have been applied to build and evalu
 - Dataset LoanStats_2019Q1.CSV
 
 ## Results
+
+- RandomOverSampler
+
+![image](https://user-images.githubusercontent.com/76540704/116019863-2d53fb00-a613-11eb-960a-d83e1662b708.png)
