@@ -49,4 +49,4 @@ This project is designed to identify the suitable model that can inform whether 
 
 1. Easy Ensemble Classifying - 92.5%
 2. SMOTEENN Sampling - 61.91%
-3. Naive Random Oversampling (72%)
+3. Naive Random Oversampling - 66.73%
