@@ -53,5 +53,5 @@ This project is designed to identify the suitable model that can inform whether 
 
 Although this is the most interesting statistic from this study, recall rate for low risk loans is also important since it indicates how many low risk loans are flagged as high risk. The following versions received the best scores as compared to the others:
 
-- Balanced Random Forest Classifying (100%)
+- Balanced Random Forest Classifying - 78.77%
 - Easy Ensemble Classifying (94%)
