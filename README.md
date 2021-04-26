@@ -50,3 +50,8 @@ This project is designed to identify the suitable model that can inform whether 
 1. Easy Ensemble Classifying - 92.5%
 2. SMOTEENN Sampling - 61.91%
 3. Naive Random Oversampling - 66.73%
+
+Although this is the most interesting statistic from this study, recall rate for low risk loans is also important since it indicates how many low risk loans are flagged as high risk. The following versions received the best scores as compared to the others:
+
+- Balanced Random Forest Classifying (100%)
+- Easy Ensemble Classifying (94%)
